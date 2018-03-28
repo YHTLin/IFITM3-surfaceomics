@@ -10,7 +10,7 @@ Using the biotin-hydrazide-based cell surfaceome method, we hope to characterize
 is knocked out.
 
 ## Interactive Web App
-An interactive web tool, built using ShinyApp in R, is available for data visualization. Visit the site [here](https://tony-lin.shinyapps.io/ifitm3/).
+An interactive web tool built using ShinyApp in R is available for data visualization. Visit the site [here](https://tony-lin.shinyapps.io/ifitm3/).
 
 ## File Description
 + *Jae_surfaceome_analysis.R*: R analysis script.
