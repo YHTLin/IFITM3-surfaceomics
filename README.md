@@ -1,5 +1,5 @@
 # IFITM3-surfaceomics
-Surface proteomics analysis on IFITM3-deficient cell lines.
+Surface proteomics analysis to characterize changes in membrane protein composition due to IFITM3 deficiency.
 
 ## Motivation
 The aim of this experiment is to identify membrane proteins whose abundances are affected as a result of IFITM3 
